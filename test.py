@@ -27,7 +27,7 @@ class Employee:
         return self.sdf
 
 
-ob = Employee(df)
+ob = Employee()
 
 choice = 1
 
